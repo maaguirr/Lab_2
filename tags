@@ -1,0 +1,5 @@
+Factorial	C:\Users\maasa\Documents\ECEGR2020\ECEGR2020\Lab_2\main.c	/^long Factorial(long num){$/;"	function	line:5	signature:(long num)	returns:long 
+IsPalindrome	C:\Users\maasa\Documents\ECEGR2020\ECEGR2020\Lab_2\main.c	/^int IsPalindrome(long value){$/;"	function	line:15	signature:(long value)	returns:int 
+HighestBitSet	C:\Users\maasa\Documents\ECEGR2020\ECEGR2020\Lab_2\main.c	/^int HighestBitSet(int value){$/;"	function	line:31	signature:(int value)	returns:int 
+ReverseIt	C:\Users\maasa\Documents\ECEGR2020\ECEGR2020\Lab_2\main.c	/^void ReverseIt(void){$/;"	function	line:53	signature:(void)	returns:void 
+main	C:\Users\maasa\Documents\ECEGR2020\ECEGR2020\Lab_2\main.c	/^int main()$/;"	function	line:73	signature:()	returns:int 
